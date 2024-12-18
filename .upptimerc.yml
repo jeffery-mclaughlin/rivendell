@@ -13,8 +13,8 @@ status-website:
   baseUrl: /quiannaco
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: QuiannaCo
-  # introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  # introMessage: 
+  introTitle: "**Upptime** dashboard for quianna.co"
+  introMessage: Current status is...
   navbar:
     - title: Status
       href: /

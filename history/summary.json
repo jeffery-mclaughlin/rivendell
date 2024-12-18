@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/quianna.co.ico",
     "slug": "quianna-co",
     "status": "up",
-    "uptime": "1.13%",
-    "uptimeDay": "1.13%",
-    "uptimeWeek": "1.13%",
-    "uptimeMonth": "1.13%",
-    "uptimeYear": "1.13%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 289,
     "timeDay": 289,
     "timeWeek": 289,
     "timeMonth": 289,
     "timeYear": 289,
-    "dailyMinutesDown": {
-      "2024-12-18": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "QuiannaCoWWW",

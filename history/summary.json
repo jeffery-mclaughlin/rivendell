@@ -1,40 +1,20 @@
 [
   {
-    "name": "quianna.co (no www)",
+    "name": "quianna.co",
     "url": "https://quianna.co",
     "icon": "https://icons.duckduckgo.com/ip3/quianna.co.ico",
-    "slug": "quianna-co-no-www",
+    "slug": "quianna-co",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 297,
-    "timeDay": 297,
-    "timeWeek": 297,
-    "timeMonth": 297,
-    "timeYear": 297,
+    "time": 306,
+    "timeDay": 306,
+    "timeWeek": 306,
+    "timeMonth": 306,
+    "timeYear": 306,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "www.quianna.co",
-    "url": "https://www.quianna.co",
-    "icon": "https://icons.duckduckgo.com/ip3/www.quianna.co.ico",
-    "slug": "www-quianna-co",
-    "status": "up",
-    "uptime": "0.36%",
-    "uptimeDay": "0.36%",
-    "uptimeWeek": "0.36%",
-    "uptimeMonth": "0.36%",
-    "uptimeYear": "0.36%",
-    "time": 399,
-    "timeDay": 399,
-    "timeWeek": 399,
-    "timeMonth": 399,
-    "timeYear": 399,
-    "dailyMinutesDown": {
-      "2024-12-18": 27
-    }
   }
 ]

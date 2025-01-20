@@ -11,10 +11,28 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 322,
-    "timeDay": 314,
+    "timeDay": 315,
     "timeWeek": 313,
     "timeMonth": 319,
     "timeYear": 322,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "mgrid.ai",
+    "url": "https://mgrid.ai",
+    "icon": "https://icons.duckduckgo.com/ip3/mgrid.ai.ico",
+    "slug": "mgrid-ai",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 287,
+    "timeDay": 287,
+    "timeWeek": 287,
+    "timeMonth": 287,
+    "timeYear": 287,
     "dailyMinutesDown": {}
   }
 ]

@@ -41,18 +41,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/jefferymac.com.ico",
     "slug": "jefferymac-com",
     "status": "up",
-    "uptime": "0.60%",
-    "uptimeDay": "0.60%",
-    "uptimeWeek": "0.60%",
-    "uptimeMonth": "0.60%",
-    "uptimeYear": "0.60%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 198,
     "timeDay": 198,
     "timeWeek": 198,
     "timeMonth": 198,
     "timeYear": 198,
-    "dailyMinutesDown": {
-      "2025-01-21": 12
-    }
+    "dailyMinutesDown": {}
   }
 ]

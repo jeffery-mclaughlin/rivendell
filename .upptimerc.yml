@@ -15,8 +15,8 @@ status-website:
   # cname: quianna.co
   baseUrl: /quianna.co
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: QuiannaCo
-  introTitle: "**Upptime** dashboard for quianna.co"
+  name: Rivendell
+  introTitle: "**Upptime** dashboard for Rivendell"
   introMessage: Current status is...
   navbar:
     - title: Status

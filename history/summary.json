@@ -26,24 +26,26 @@
     "icon": "https://icons.duckduckgo.com/ip3/mgrid.ai.ico",
     "slug": "mgrid-ai",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.86%",
+    "uptimeDay": "87.28%",
+    "uptimeWeek": "98.18%",
+    "uptimeMonth": "99.58%",
+    "uptimeYear": "99.86%",
     "time": 238,
     "timeDay": 323,
     "timeWeek": 238,
     "timeMonth": 231,
     "timeYear": 238,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-20": 183
+    }
   },
   {
     "name": "jefferymac.com",
     "url": "https://jefferymac.com",
     "icon": "https://icons.duckduckgo.com/ip3/jefferymac.com.ico",
     "slug": "jefferymac-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -54,6 +56,8 @@
     "timeWeek": 195,
     "timeMonth": 206,
     "timeYear": 208,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-20": 0
+    }
   }
 ]

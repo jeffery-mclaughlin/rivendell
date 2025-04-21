@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.28%",
     "time": 318,
-    "timeDay": 287,
-    "timeWeek": 300,
+    "timeDay": 324,
+    "timeWeek": 303,
     "timeMonth": 312,
     "timeYear": 318,
     "dailyMinutesDown": {
@@ -26,18 +26,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/mgrid.ai.ico",
     "slug": "mgrid-ai",
     "status": "down",
-    "uptime": "99.86%",
-    "uptimeDay": "87.28%",
-    "uptimeWeek": "98.18%",
-    "uptimeMonth": "99.58%",
-    "uptimeYear": "99.86%",
+    "uptime": "99.42%",
+    "uptimeDay": "47.55%",
+    "uptimeWeek": "92.51%",
+    "uptimeMonth": "98.28%",
+    "uptimeYear": "99.42%",
     "time": 238,
-    "timeDay": 323,
-    "timeWeek": 238,
-    "timeMonth": 231,
+    "timeDay": 0,
+    "timeWeek": 246,
+    "timeMonth": 233,
     "timeYear": 238,
     "dailyMinutesDown": {
-      "2025-04-20": 183
+      "2025-04-21": 109,
+      "2025-04-20": 646
     }
   },
   {
@@ -46,18 +47,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/jefferymac.com.ico",
     "slug": "jefferymac-com",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.56%",
+    "uptimeDay": "60.27%",
+    "uptimeWeek": "94.32%",
+    "uptimeMonth": "98.69%",
+    "uptimeYear": "99.56%",
     "time": 208,
-    "timeDay": 194,
+    "timeDay": 0,
     "timeWeek": 195,
     "timeMonth": 206,
     "timeYear": 208,
     "dailyMinutesDown": {
-      "2025-04-20": 0
+      "2025-04-21": 109,
+      "2025-04-20": 463
     }
   }
 ]

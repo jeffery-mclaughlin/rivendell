@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/quianna.co.ico",
     "slug": "quianna-co",
     "status": "down",
-    "uptime": "95.82%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "94.00%",
-    "time": 715,
+    "uptime": "95.74%",
+    "uptimeDay": "51.73%",
+    "uptimeWeek": "93.10%",
+    "uptimeMonth": "98.41%",
+    "uptimeYear": "93.87%",
+    "time": 716,
     "timeDay": 350,
-    "timeWeek": 657,
-    "timeMonth": 3321,
-    "timeYear": 865,
+    "timeWeek": 712,
+    "timeMonth": 3406,
+    "timeYear": 866,
     "dailyMinutesDown": {
       "2025-09-08": 1271,
       "2025-09-07": 1440,
@@ -61,7 +61,9 @@
       "2026-03-26": 10,
       "2026-03-30": 107,
       "2026-03-29": 19,
-      "2026-05-01": 67
+      "2026-05-01": 67,
+      "2026-06-17": 70,
+      "2026-06-16": 626
     }
   }
 ]
